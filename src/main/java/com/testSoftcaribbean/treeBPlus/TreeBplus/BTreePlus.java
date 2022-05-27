@@ -388,7 +388,6 @@ public class BTreePlus {
 				break;
 			}
 		}
-
 		return searchValues;
 	}
 }
