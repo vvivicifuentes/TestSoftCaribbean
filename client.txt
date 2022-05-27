@@ -1,0 +1,14 @@
+id,first_name,last_name,direction,movil,age,date_birth
+123,steven,jimenez,call 9,3158411478,30,1990-12-29
+234,viviana,vivi,barrio Los Alamos,35255556,25,1996-12-19
+345,samuel,jimenez,Tcc,1234567891,9,2012-05-19
+456,andres,mejia,centro,3124568541,25,1995-06-29
+567,carlos,torres,edificio el verano,3124568541,45,1995-06-29
+678,santiago,martinez,bosques de pinares,3124568541,60,1995-06-29
+771,Carlos,Torres,Call 5 Norte,3005262626,20,1990-01-04
+772,Carlos,Torres,Call 5 Norte,3005262626,20,1990-01-04
+773,Carlos,Torres,Call 5 Norte,3005262626,20,1990-01-04
+774,Carlos,Torres,Call 5 Norte,3005262626,20,1990-01-04
+776,Carlos,Torres,Call 5 Norte,3005262626,20,1990-01-04
+777,Carlos,Torres,Call 5 Norte,3005262626,20,1990-01-04
+778,Carlos,Torres,Call 5 Norte,3005262626,20,1990-01-04
